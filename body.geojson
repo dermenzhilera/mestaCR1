@@ -34,7 +34,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 3,
+        "id": 4,
         "nazev": "Šumperk",
         "popisek": "moje bydliste"
       },
@@ -44,6 +44,24 @@
           16.9466011,
           49.9666713
         ]
+      }
+    }
+  ]
+}
+
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "nazev": "Oděsa",
+        "popis": "Přístavní město na pobřeží Černého moře na jihu Ukrajiny; její historické centrum je od roku 2023 na seznamu UNESCO."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [30.7233, 46.4825]
       }
     }
   ]
